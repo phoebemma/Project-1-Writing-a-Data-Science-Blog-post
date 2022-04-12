@@ -18,7 +18,8 @@ this was the biggest motivation for checking the level of awareness regarding
 antibiotics abuse in European Union countries. I know access to antibiotics (just like most drugs) is highly regulated, 
 I wanted to check if people understood why. 
 ## Results
-The main findings are discussed ................
+The main findings are discussed
+[here](https://medium.com/@chidimma.atukpawu/the-eu-action-plan-against-antimicrobial-resistance-how-much-more-needs-to-be-done-47502f39d764)
 
 ## Licensing and Acknowledgement
 The data used is sourced from 
