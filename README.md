@@ -23,6 +23,9 @@ I wanted to check if people understood why. The questions I hope to be able to a
 * 3. Are the people within the region informed enough on how antibiotics are abused?
 
 ## Files in the repository
+* EU_Antimicrobial resistance.ipynb: This contains the codes in jupyter notebook
+* README.md: 
+* ebs_478_volume_A_xls.zip. The Zipped file containing the raw data  as downloaded from (https://data.europa.eu/data/datasets/s2190_90_1_478_eng?locale=en)
 ## Results
 The main findings are discussed
 [here](https://medium.com/@chidimma.atukpawu/the-eu-action-plan-against-antimicrobial-resistance-how-much-more-needs-to-be-done-47502f39d764)
